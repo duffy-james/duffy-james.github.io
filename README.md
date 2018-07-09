@@ -1,2 +1,1 @@
-# duffy-james.github.io
-Portfolio website
+# Techdegree Project 1
